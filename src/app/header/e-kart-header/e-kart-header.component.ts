@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./e-kart-header.component.css']
 })
 export class EKartHeaderComponent {
-
+ 
 }
