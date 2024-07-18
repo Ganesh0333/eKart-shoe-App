@@ -1,0 +1,15 @@
+.menu-links{
+    padding: 1.2vh 8vh;
+    margin-left: 200px;
+    width:350px;
+    text-align: center;
+}
+
+a{
+    color: #36454F;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    font-size: '15px';
+    margin:15px ;
+}
